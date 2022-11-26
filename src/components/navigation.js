@@ -4,13 +4,12 @@ import {NavLink, Link} from 'react-router-dom';
 export default function Navigation(){
   return (
     <nav>
-			<ul classname='nav-links'>
+			<ul className='nav-links'>
 				<li key='projects'>
 					<NavLink
 						to='/'
 						className='nav-link'
-						activeClassName='nav-link-active'
-						exact
+						activeClassName ='nav-link-active'
 					> PROJECTS </NavLink>
 				</li>
 				<li key='topics'>

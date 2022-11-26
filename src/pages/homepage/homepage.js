@@ -1,27 +1,31 @@
 import React, { useEffect, useState } from "react";
 import Logo from './logo.png';
+import {getProjects} from '../../api/projectFinder/index.js';
+import {Link} from 'react-router-dom';
 export default function Homepage(){
 	const [data, setData] = useState(null);
 	
 	useEffect(()=>{
-		async function getProjectsData(){
-			const projectsData = await getProjects();
-			setData(projectsData);
-		}
-		getProjectsData()
-			.then((projectsData)=>{console.log(projectsData)});
-	});
+
+		getProjects().then((projectsData)=>{
+			console.log(projectsData);
+			setData((prev)=>(projectsData))
+		})
+		
+	},[]);
 	
   return (
     <div>
-			<div classname='nav-log'>
+			<div className='nav-log'>
 				<img src={Logo}></img>
 			</div>
 			<div className='grid'>
-				{projectsData.map((project)=>(
-					<Link>
-						//load project details
-					</Link>
+				{data === null ? "loading projects" : 
+					data.map((project)=>(
+						<Link
+							key={project.id}>
+							{project.name}
+						</Link>
 				))}
 			</div>
 		</div>

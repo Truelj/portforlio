@@ -1,26 +1,26 @@
 {
 	"projects": [{
 		"id": 1,
-		"project name": "news platform",
-		"programming language": ["Javascript"],
+		"name": "news platform",
+		"programming_language": ["Javascript"],
 		"Library/Framework": ["@reduxjs/toolkit", "react"],
 		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
 	}, {
 		"id": 2,
-		"project name": "news platform",
-		"programming language": ["Javascript"],
+		"name": "news platform",
+		"programming_language": ["Javascript"],
 		"Library/Framework": ["@reduxjs/toolkit", "react"],
 		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
 	},{
 		"id": 3,
-		"project name": "news platform",
-		"programming language": ["Javascript"],
+		"name": "news platform",
+		"programming_language": ["Javascript"],
 		"Library/Framework": ["@reduxjs/toolkit", "react"],
 		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
 	},{
 		"id": 4,
-		"project name": "news platform",
-		"programming language": ["Javascript"],
+		"name": "news platform",
+		"programming_language": ["Javascript"],
 		"Library/Framework": ["@reduxjs/toolkit", "react"],
 		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
 	}]
