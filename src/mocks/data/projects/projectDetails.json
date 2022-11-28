@@ -1,27 +1,35 @@
 {
 	"1": {
-		"project name": "news platform",
-		"programming language": ["Javascript"],
-		"Library/Framework": ["@reduxjs/toolkit", "react"],
-		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
+		"name": "news platform",
+		"videoCover": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"videoUrl": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"githubUrl": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"codeSnippets":[{"description": "description one", "payload": "https://i.postimg.cc/G2JjYRfH/project-Default.png"}, {"description": "description two", "payload": "https://i.postimg.cc/G2JjYRfH/project-Default.png"}
+		]
 	},
 	"2": {
-		"project name": "news platform",
-		"programming language": ["Javascript"],
-		"Library/Framework": ["@reduxjs/toolkit", "react"],
-		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
+		"name": "news platform",
+		"videoCover": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"videoUrl": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"githubUrl": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"codeSnippets":[{"description": "description one", "payload": "https://i.postimg.cc/G2JjYRfH/project-Default.png"}, {"description": "description two", "payload": "https://i.postimg.cc/G2JjYRfH/project-Default.png"}
+		]
 	},
 	"3": {
-		"project name": "news platform",
-		"programming language": ["Javascript"],
-		"Library/Framework": ["@reduxjs/toolkit", "react"],
-		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
+		"name": "news platform",
+		"videoCover": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"videoUrl": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"githubUrl": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"codeSnippets":[{"description": "description one", "payload": "https://i.postimg.cc/G2JjYRfH/project-Default.png"}, {"description": "description two", "payload": "https://i.postimg.cc/G2JjYRfH/project-Default.png"}
+		]
 	},
 	"4": {
-		"project name": "news platform",
-		"programming language": ["Javascript"],
-		"Library/Framework": ["@reduxjs/toolkit", "react"],
-		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
+		"name": "news platform",
+		"videoCover": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"videoUrl": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"githubUrl": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
+		"codeSnippets":[{"description": "description one", "payload": "https://i.postimg.cc/G2JjYRfH/project-Default.png"}, {"description": "description two", "payload": "https://i.postimg.cc/G2JjYRfH/project-Default.png"}
+		]
 	}
 }
 

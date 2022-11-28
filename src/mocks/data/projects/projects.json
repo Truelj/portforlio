@@ -1,24 +1,28 @@
 {
 	"projects": [{
 		"id": 1,
+		"url": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
 		"name": "news platform",
 		"programming_language": ["Javascript"],
 		"Library/Framework": ["@reduxjs/toolkit", "react"],
 		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
 	}, {
 		"id": 2,
+		"url": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
 		"name": "news platform",
 		"programming_language": ["Javascript"],
 		"Library/Framework": ["@reduxjs/toolkit", "react"],
 		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
 	},{
 		"id": 3,
+		"url": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
 		"name": "news platform",
 		"programming_language": ["Javascript"],
 		"Library/Framework": ["@reduxjs/toolkit", "react"],
 		"Feature": ["using #createAsyncThunk and #createSlice utilities from @reduxjs/toolkit to add asynchronous functionality to a redxu application"]
 	},{
 		"id": 4,
+		"url": "https://i.postimg.cc/G2JjYRfH/project-Default.png",
 		"name": "news platform",
 		"programming_language": ["Javascript"],
 		"Library/Framework": ["@reduxjs/toolkit", "react"],

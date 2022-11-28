@@ -14,9 +14,15 @@ export const handlers = [
 	}),
 
 	rest.get('/projects/:id', (req, res, ctx) =>{
-		return res(
-			ctx.status(200)
-		)
+		const {id} = req.params;
+		let response = projectDetails[id];
+		
+		if(!response){
+			return res(ctx.status(404));
+		}else{
+			return res(ctx.status(200), ctx.json(response));
+		}
+		
 	})
 
 	
